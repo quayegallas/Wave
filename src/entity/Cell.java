@@ -4,7 +4,7 @@ import custom.event.GameOverEvent;
 
 public abstract class Cell {
     private Integer x;
-	private Integer y;// 123
+	private Integer y;// 12345
     private String content;
     private Event event;
 
